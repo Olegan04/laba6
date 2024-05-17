@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Документы\\С++\\TXI\\TXI.csproj",
+      "projectUniqueName": "C:\\Users\\Oleg\\Documents\\Лабороторные работы\\ТХИ\\laba6\\TXI\\TXI.csproj",
       "projectName": "TXI",
-      "projectPath": "D:\\Документы\\С++\\TXI\\TXI.csproj",
+      "projectPath": "C:\\Users\\Oleg\\Documents\\Лабороторные работы\\ТХИ\\laba6\\TXI\\TXI.csproj",
       "packagesPath": "C:\\Users\\Oleg\\.nuget\\packages\\",
-      "outputPath": "D:\\Документы\\С++\\TXI\\obj\\",
+      "outputPath": "C:\\Users\\Oleg\\Documents\\Лабороторные работы\\ТХИ\\laba6\\TXI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Oleg\\AppData\\Roaming\\NuGet\\NuGet.Config",

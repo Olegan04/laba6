@@ -40,12 +40,12 @@ namespace AAAA
 
         private void button3_Click(object sender, EventArgs e)
         {
-            if(listBox1.SelectedIndex >= 0)
-            {
+          //  if(listBox1.SelectedIndex >= 0)
+            //{
                 ChangeData changeData = new ChangeData(this, listBox1.SelectedIndex);
                 changeData.Show();
                 this.Hide();
-            }
+            //}
         }
         public void SetWeapon(string weaponName, int price)
         {

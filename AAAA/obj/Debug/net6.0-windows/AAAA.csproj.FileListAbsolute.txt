@@ -23,3 +23,29 @@ D:\Документы\С++\AAAA\obj\Debug\net6.0-windows\AAAA.genruntimeconfig.c
 D:\Документы\С++\AAAA\obj\Debug\net6.0-windows\ref\AAAA.dll
 D:\Документы\С++\AAAA\obj\Debug\net6.0-windows\AAAA.NewWeapon.resources
 D:\Документы\С++\AAAA\obj\Debug\net6.0-windows\AAAA.ChangeData.resources
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\bin\Debug\net6.0-windows\TXI.deps.json
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\bin\Debug\net6.0-windows\TXI.runtimeconfig.json
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\bin\Debug\net6.0-windows\TXI.exe
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\bin\Debug\net6.0-windows\AAAA.exe
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\bin\Debug\net6.0-windows\AAAA.deps.json
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\bin\Debug\net6.0-windows\AAAA.runtimeconfig.json
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\bin\Debug\net6.0-windows\AAAA.dll
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\bin\Debug\net6.0-windows\AAAA.pdb
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\bin\Debug\net6.0-windows\TXI.dll
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\bin\Debug\net6.0-windows\TXI.pdb
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\AAAA.csproj.AssemblyReference.cache
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\AAAA.ChangeData.resources
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\AAAA.Form1.resources
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\AAAA.NewWeapon.resources
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\AAAA.csproj.GenerateResource.cache
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\AAAA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\AAAA.AssemblyInfoInputs.cache
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\AAAA.AssemblyInfo.cs
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\AAAA.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\AAAA.sourcelink.json
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\AAAA.csproj.Up2Date
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\AAAA.dll
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\refint\AAAA.dll
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\AAAA.pdb
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\AAAA.genruntimeconfig.cache
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\AAAA\obj\Debug\net6.0-windows\ref\AAAA.dll

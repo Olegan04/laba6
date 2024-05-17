@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Документы\\С++\\AAAA\\AAAA.csproj": {}
+    "C:\\Users\\Oleg\\Documents\\Лабороторные работы\\ТХИ\\laba6\\AAAA\\AAAA.csproj": {}
   },
   "projects": {
-    "D:\\Документы\\С++\\AAAA\\AAAA.csproj": {
+    "C:\\Users\\Oleg\\Documents\\Лабороторные работы\\ТХИ\\laba6\\AAAA\\AAAA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Документы\\С++\\AAAA\\AAAA.csproj",
+        "projectUniqueName": "C:\\Users\\Oleg\\Documents\\Лабороторные работы\\ТХИ\\laba6\\AAAA\\AAAA.csproj",
         "projectName": "AAAA",
-        "projectPath": "D:\\Документы\\С++\\AAAA\\AAAA.csproj",
+        "projectPath": "C:\\Users\\Oleg\\Documents\\Лабороторные работы\\ТХИ\\laba6\\AAAA\\AAAA.csproj",
         "packagesPath": "C:\\Users\\Oleg\\.nuget\\packages\\",
-        "outputPath": "D:\\Документы\\С++\\AAAA\\obj\\",
+        "outputPath": "C:\\Users\\Oleg\\Documents\\Лабороторные работы\\ТХИ\\laba6\\AAAA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oleg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\Документы\\С++\\TXI\\TXI.csproj": {
-                "projectPath": "D:\\Документы\\С++\\TXI\\TXI.csproj"
+              "C:\\Users\\Oleg\\Documents\\Лабороторные работы\\ТХИ\\laba6\\TXI\\TXI.csproj": {
+                "projectPath": "C:\\Users\\Oleg\\Documents\\Лабороторные работы\\ТХИ\\laba6\\TXI\\TXI.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "D:\\Документы\\С++\\TXI\\TXI.csproj": {
+    "C:\\Users\\Oleg\\Documents\\Лабороторные работы\\ТХИ\\laba6\\TXI\\TXI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Документы\\С++\\TXI\\TXI.csproj",
+        "projectUniqueName": "C:\\Users\\Oleg\\Documents\\Лабороторные работы\\ТХИ\\laba6\\TXI\\TXI.csproj",
         "projectName": "TXI",
-        "projectPath": "D:\\Документы\\С++\\TXI\\TXI.csproj",
+        "projectPath": "C:\\Users\\Oleg\\Documents\\Лабороторные работы\\ТХИ\\laba6\\TXI\\TXI.csproj",
         "packagesPath": "C:\\Users\\Oleg\\.nuget\\packages\\",
-        "outputPath": "D:\\Документы\\С++\\TXI\\obj\\",
+        "outputPath": "C:\\Users\\Oleg\\Documents\\Лабороторные работы\\ТХИ\\laba6\\TXI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oleg\\AppData\\Roaming\\NuGet\\NuGet.Config",

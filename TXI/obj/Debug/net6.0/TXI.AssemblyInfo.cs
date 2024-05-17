@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TXI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b34a5d5e8707b9c96463c8ec11d1ff3726e236de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bdf6f46982f1069b9c2f77c2341d0ebfa0f338e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TXI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TXI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

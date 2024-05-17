@@ -12,3 +12,18 @@ D:\Документы\С++\TXI\obj\Debug\net6.0\refint\TXI.dll
 D:\Документы\С++\TXI\obj\Debug\net6.0\TXI.pdb
 D:\Документы\С++\TXI\obj\Debug\net6.0\TXI.genruntimeconfig.cache
 D:\Документы\С++\TXI\obj\Debug\net6.0\ref\TXI.dll
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\TXI\bin\Debug\net6.0\TXI.exe
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\TXI\bin\Debug\net6.0\TXI.deps.json
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\TXI\bin\Debug\net6.0\TXI.runtimeconfig.json
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\TXI\bin\Debug\net6.0\TXI.dll
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\TXI\bin\Debug\net6.0\TXI.pdb
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\TXI\obj\Debug\net6.0\TXI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\TXI\obj\Debug\net6.0\TXI.AssemblyInfoInputs.cache
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\TXI\obj\Debug\net6.0\TXI.AssemblyInfo.cs
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\TXI\obj\Debug\net6.0\TXI.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\TXI\obj\Debug\net6.0\TXI.sourcelink.json
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\TXI\obj\Debug\net6.0\TXI.dll
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\TXI\obj\Debug\net6.0\refint\TXI.dll
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\TXI\obj\Debug\net6.0\TXI.pdb
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\TXI\obj\Debug\net6.0\TXI.genruntimeconfig.cache
+C:\Users\Oleg\Documents\Лабороторные работы\ТХИ\laba6\TXI\obj\Debug\net6.0\ref\TXI.dll
