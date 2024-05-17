@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AAAA/1.0.0": {
+        "dependencies": {
+          "TXI": "1.0.0"
+        },
+        "runtime": {
+          "AAAA.dll": {}
+        }
+      },
+      "TXI/1.0.0": {
+        "runtime": {
+          "TXI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AAAA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TXI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

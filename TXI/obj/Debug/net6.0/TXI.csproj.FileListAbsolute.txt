@@ -1,0 +1,14 @@
+D:\Документы\С++\TXI\bin\Debug\net6.0\TXI.exe
+D:\Документы\С++\TXI\bin\Debug\net6.0\TXI.deps.json
+D:\Документы\С++\TXI\bin\Debug\net6.0\TXI.runtimeconfig.json
+D:\Документы\С++\TXI\bin\Debug\net6.0\TXI.dll
+D:\Документы\С++\TXI\bin\Debug\net6.0\TXI.pdb
+D:\Документы\С++\TXI\obj\Debug\net6.0\TXI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\С++\TXI\obj\Debug\net6.0\TXI.AssemblyInfoInputs.cache
+D:\Документы\С++\TXI\obj\Debug\net6.0\TXI.AssemblyInfo.cs
+D:\Документы\С++\TXI\obj\Debug\net6.0\TXI.csproj.CoreCompileInputs.cache
+D:\Документы\С++\TXI\obj\Debug\net6.0\TXI.dll
+D:\Документы\С++\TXI\obj\Debug\net6.0\refint\TXI.dll
+D:\Документы\С++\TXI\obj\Debug\net6.0\TXI.pdb
+D:\Документы\С++\TXI\obj\Debug\net6.0\TXI.genruntimeconfig.cache
+D:\Документы\С++\TXI\obj\Debug\net6.0\ref\TXI.dll
